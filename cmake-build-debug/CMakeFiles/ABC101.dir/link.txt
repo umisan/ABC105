@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ABC101.dir/main.cpp.o  -o ABC101.exe -Wl,--out-implib,libABC101.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
